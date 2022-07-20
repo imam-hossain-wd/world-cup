@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* ---------top banner section start------------- */
+
+.top-section{
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+}
+.top-banner{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    background-color:#161616;
+    position: absolute;
+    width: 1100px;
+    height: 646px;
+    border-radius: 30px;
+    color:white;
+    /* position:absolute;
+    top:50px;
+    left:50px; */
+}
+.banner-description{
+    width:531px;
+    height:424px;
+}
+.banner-image{
+    width: 581px;
+    height: 613px;
+}
+
+.banner-description> h1{
+    height: 240px;
+    width: 531px;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+.banner-description p{
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.banner-description p{
+    
+
+}
